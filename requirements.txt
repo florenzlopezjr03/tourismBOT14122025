@@ -1,0 +1,5 @@
+mistralai==1.9.11
+streamlit==1.52.1
+python-dateutil==2.9.0.post0
+pydantic==2.12.5
+httpx==0.28.1
